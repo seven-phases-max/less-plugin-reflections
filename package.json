@@ -1,0 +1,28 @@
+{
+  "name": "less-plugin-reflections",
+  "version": "0.0.1",
+  "description": "Make-me-happy function set for Less",
+  "homepage": "https://github.com/seven-phases-max/less-plugin-reflections",
+  "author": "Max Mikhailov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seven-phases-max/less-plugin-reflections.git"
+  },
+
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "less",
+    "less.js",
+    "lesscss",
+    "less plugin",
+    "less meta",
+    "less functions",
+    "less hackery"
+  ]
+}
